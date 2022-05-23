@@ -23,7 +23,7 @@ public class MergeSort {//https://stackabuse.com/merge-sort-in-java/
 //        System.out.println("Populating left array..");
         for (int i = 0; i < leftArray.length; i++) {
             leftArray[i] = array[low + i];
-        }
+        }//wjwjwoiwowohello
 //        System.out.println("Populating right array..");
         for (int i = 0; i < rightArray.length; i++) {
             rightArray[i] = array[mid + i + 1];
